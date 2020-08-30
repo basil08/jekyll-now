@@ -21,9 +21,9 @@
         <header class="masthead clearfix">
           
           <!-- Don't include avatar picture if it does not exist (!) -->
-          { % if site.avatar } 
+          {% if site.avatar } 
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-          { % endif }
+          {% endif }
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
