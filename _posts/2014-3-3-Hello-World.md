@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Test Post Stub
+published: true
 ---
+## Hello World. 
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hi there! This is my personal website. I hope you like it around here. Here are some starters to hop around: 
+1. [My blog](https://basil08.github.io/blogs) (Don't worry, it's non-existential for now!)
+2. [Basil, the herb](https://en.wikipedia.org/wiki/Basil)
+3. [More about me](https://basil08.github.io/about)
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
