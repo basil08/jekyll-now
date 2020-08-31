@@ -4,6 +4,7 @@ title: About
 permalink: /
 ---
 
+<!-- @TODO: Rewrite this. This is too lame. -->
 Hi there! My name is **Basil Labib**. I am a high school student expected to graduate next year from [Birla High School][school], Kolkata, India.    
 
 <!-- @TODO: Activate/setup jemoji on GitHub pages for :sweat_smile: to work... -->
@@ -20,7 +21,7 @@ I _love_ to read books. And I read on anything and everything I find _interestin
 
 ### Music   
 
-[_Fleet Foxes_][foxes] is my favourite indie rock band. And I absolutely adore [_Cocteau Twins_][twins]. "Dream Pop" is the kind of music I enjoy.      
+[_Fleet Foxes_][foxes] is my favourite indie rock band. And I absolutely adore [_Cocteau Twins_][twins]. "[Ethereal Wave][ethereal]" is the kind of music I enjoy.      
 
 I hope you enjoy your way around here. Here are a few starters for you to hop around: 
 1. [Some of my writings](/blog). 
@@ -36,3 +37,4 @@ Have any suggestions, ideas or just wanna talk? Shoot me an email [here](mailto:
 [blog]: https://basil08.github.io/blog
 [foxes]: https://fleetfoxes.co/
 [twins]: https://cocteautwins.com
+[ethereal]: https://en.wikipedia.org/wiki/Ethereal_wave

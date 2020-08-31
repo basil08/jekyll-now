@@ -6,20 +6,20 @@ permalink: /bookshelf/
 
 ## Abstract   
 
-This is the bookshelf of my most endearing and enlightening reads. Right now, it's a big pile of unorganized data. I wish to organize it later (hopefully). 
+This is the bookshelf of all my reading endeavours. Right now, it's a big pile of unorganized data. I wish to organize it later into categories (hopefully). 
 
 ## Let's Get Started 
 
 <!-- Add an amazon link to the book -->
-1. **The Rosie Project - by Graemae Simsion**  
+1. **The Rosie Project - by Graeme Simsion**  
 <!-- Add quote from the book -->
 My first read this year (2020). I started just after taking the last of my annuals and I remember laughing hard. It's a romcom about a genetic professor suffering from Asperger's trying to find a wife. The `Wife Project` still gives me giggles. Oh and I remember picking this up after seeing it on [Bill Gate's to-read list][gates_read_list].
-Related links: @TODO
+[Amazon link](https://www.amazon.com/Rosie-Project-Novel-Tillman-Book-ebook/dp/B00BSBR9N6).
 
 2. **Daemon - by Daniel Suarez**     
 
 A dystopian fiction where a computer program takes "control". This was on my list for a long time. I read it in our public library and enjoyed the nerd talk.    
-Related links: @TODO    
+[Amazon link](https://www.amazon.com/Daemon-Daniel-Suarez-ebook/dp/B003QP4NPE). By the way, it also has a sequel [Freedom (TM)](https://www.goodreads.com/book/show/8488830-freedom).  
 
 3. **The Perks of Being a Wallflower - by Stephen Chobsky**   
 
@@ -32,12 +32,12 @@ This one's a gem. I loved it. It made me firmly believe in the power of the fema
 
 5. **The Rosie Effect - by Graemae Simsion**    
 
-A sequel to [The Rosie Project]() (There is actually one [more][rosie_result]). A development of the story told in the first book. Though I think it's not as hilarious.  
+A sequel to The Rosie Project (see above) (There is actually one [more][rosie_result]). A development of the story told in the first book. Though I think it's not as hilarious.  
 
 6. **Head First C - by D. and D. Griffiths (O' Reilly Press)**   
 
 My first ever _proper_ grounding in the C language I now love so much (though I haven't written much yet). I have taken notes of the book. Each page, each paragraph.   
-**TODO: ** I shall make a resource out of it and put it here.   
+**TODO:** I shall make a resource out of it and put it here.   
 
 7. **Crafting Interpreters - by Robert Nystrom**   
 
@@ -56,18 +56,17 @@ A fable and imaginative story about Santiago who goes on an adventure and finds 
 My introduction to Zen and Taoism. This book was among the most recommended among [Tim Ferriss' guests][ferriss_guest] so I picked it up. Highly rewarding and really worth multiple reads.   
 
 My favourite excerpt? Oh, there are too many! But to quote an example,
- <!-- Look up this quote and add the correct quote here  -->
-> When the dancer cannot be distinguished from the dance.    
-When nothing is done.   
-When nothing is left undone.    
-<cite>- Lao Tzu, Tao Te Ching</cite>   
+ <!-- Look up this quote and add the correct quote here  -->      
+> When nothing is done,    
+> nothing is left undone.   
+> \- Lao Tzu, Tao Te Ching  
 
 10. **Just for Fun, The Story of an Accidental Revolutionary - by Linus Torvalds and David Diamond**   
 
 Story of the nerd who changed the course of mankind's development told by himself? Check. It's like standing in a Hall of Fame (for me). No wonder Linus comes closest to the _idol_ I yearn to have. I quote him saying, 
 <!-- Refer to quote from book and add here -->
-> I remember my friends getting laid more.   
-But honestly, my friends were kind of losers too. 
+> I was kind of aware of friends getting laid more, but that was okay.   
+Most of them were losers too. 
 
 Also, impressed by his throughly-thought after ideas about Open Source, it's mechanism, implications, pros and cons.   
 
@@ -77,7 +76,7 @@ I have read till Part 2, chapter 5 - The Grand Inquisitor.
 
 12. **Who moved my Cheese? - by Dr. Spencer Johnson**   
 
-Ok, let me confess. I _still_ don't get the point of this book. We have to change and adapt lest we want to become obsolete and perish. Is this all? Or am I missing something? Please [help me](/contact.md) here.   
+Ok, let me confess. I _still_ don't get the point of this book. We have to change and adapt lest we want to become obsolete and perish. Is this all? Or am I missing something? Please [help me](/) here.   
 
 13. **Ready Player One - by Ernst Cline**   
 
@@ -86,7 +85,7 @@ PS: Needless to say, can't wait for [this][announcement_rp2].
 
 14. **The Catcher in the Rye - by J. D. Salinger**  
 
-Teenage angst overload? Pimples? Defiance? Insanity? Cynical? Vulnerable? All check. A classic which painted for the first time an image of an adolescent. Lots of memorable characters, Holden Caulfield being the most. I hardly (and thankfully!) connect with Holden. Infact, it set me thinking _if I am missing out_. :shrug:   
+Teenage angst overload? Pimples? Defiance? Insanity? Cynical? Vulnerable? All check. A classic which painted for the definitive _modern_ adolescent. Lots of memorable characters, Holden Caulfield being the most. I hardly (and thankfully!) connect with Holden. Infact, it set me thinking _if I am missing out_. :shrug:   
 
 15. **Head First JavaScript - by Morrison (O' Reilly Press)**   
 
@@ -97,7 +96,7 @@ But if you do have time, this book might be a nice read to understand _why_ othe
 
 A sympathetic read about my first genuine crush. But shh! Besides, you will probably laugh if you happen to be reading the blog of a person who has crushes on dead people...:zip_face:
 <!-- Link "that" image of Rosalind Franklin -->
-![Image of Rosalind Franklin]()
+![Dreamy "Rosy"](/images/rosalind-franklin-medium.jpg)
 
 And I was smitten. Also, I am not ashamed to say but this picture alone motivated me to _complete this whole book_.(I blatantly leave books midway if I lose interest).  
 
@@ -107,18 +106,11 @@ She had her complexity and flaws though.
 
 TODO: Add content here
 
-<!-- Find this YouTube video link and link it here -->
-[gates_read_list]: add-a-link
-
-<!--  -->
-[wallflower]: add-a-link
-
-[rosie_result]: add-a-link
-
-[bob_blog]: add-a-link
-
-[dragon_book]: add-a-link
-
-[ferriss_guest]: add-a-link
-
-[announcement_rp2]: add-a-link
+[gates_read_list]: https://youtu.be/a47dqygseGo
+[wallflower]: https://www.imdb.com/title/tt1659337/
+[rosie_result]: https://www.goodreads.com/book/show/41018628-the-rosie-result
+[bob_blog]: http://journal.stuffwithstuff.com/
+[dragon_book]: https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+[ferriss_guest]: https://toolsoftitans.com/
+[announcement_rp2]: https://deadline.com/2020/07/ready-player-two-sequel-novel-ernest-cline-november-publication-date-1202980261/
+[mdn_web_doc]: https://developer.mozilla.org/en-US/docs/Learn
