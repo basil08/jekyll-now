@@ -94,9 +94,10 @@ But if you do have time, this book might be a nice read to understand _why_ othe
 
 16. **Rosalind Franklin, The Dark Lady of DNA - by Brenda Maddox**  
 
-A sympathetic read about my first genuine crush. But shh! Besides, you will probably laugh if you happen to be reading the blog of a person who has crushes on dead people...:zip_face:
+A sympathetic read about my first genuine crush. But shh! Besides, you will probably laugh if you happen to be reading the blog of a person who has crushes on dead people...:zip_face:   
+
 <!-- Link "that" image of Rosalind Franklin -->
-![Dreamy "Rosy"](/images/rosalind-franklin-medium.jpg)
+![Dreamy "Rosy"](/assets/images/rosalind-franklin-medium.jpg)     
 
 And I was smitten. Also, I am not ashamed to say but this picture alone motivated me to _complete this whole book_.(I blatantly leave books midway if I lose interest).  
 
