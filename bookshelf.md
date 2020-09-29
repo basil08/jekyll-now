@@ -88,12 +88,10 @@ And I was smitten. Also, I am not ashamed to say but this picture alone motivate
 
 She had her complexity and flaws though.   
 
-17. **The Secret Life Of Adrian Mole - by Sue Townsend**   
-
+17. **The Secret Life Of Adrian Mole - by Sue Townsend**
 I _don't even know_ why I picked this book up in the first place. I think I completed it in two sittings. Recently, have developed a tendency to hunt for _short_ books cause I am losing my ability to stay committed in this dystopian pandemic situation(!)  
 
-18. **The Power - by Naomi Alderman**   
-
+18. **The Power - by Naomi Alderman**
 Another one of those books where I cheated. It's ~300 pages. And quite stupid. In fact, it compels me to call it obnoxious as a sci-fi story. The premise is fantastic (and the author takes great care to yield it successfully) but it is just **not** possible for the society it weaves to be stable. (But then that's the point of stories. They _are_ mere stories.) 
 
 Somewhere along the way femalekind develops the ability to discharge electricity from their bodies at will (like eels) due to some wacky nervous-agent used in WW2. And then Hades breaks loose. Upend religion, rape and murder men at will, and as they call it "right all wrongs". Wacky.    
