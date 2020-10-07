@@ -68,7 +68,7 @@ It has been recorded and documented that people have tried to make babies  to th
 ## Closing Remarks   
 
 <!-- {% include image.html url="/images/my-cat.jpg" description="My cat, Robert Downey Jr." %} -->
-{% include  image.html url="/assets/images/Melody-Maker-Treasure-Review.jpg" description="S. Sutherland's daring review of Treasure, 1984. Notice the last sentence. Source: Official Site" }
+{% include  image.html url="/assets/images/Melody-Maker-Treasure-Review.jpg" description="S. Sutherland's daring review of Treasure, 1984. Notice the last sentence. Source: Official Site" %}
 <!-- ![image ""](/assets/images/Melody-Maker-Treasure-Review.jpg)  -->
 
 And just like that the Cocteaus shot into limelight suffusing our lives with joy and yearning. And as swiftly, they dispersed. Be whatever it may, as [Trash Theory][tt] puts it, _"for those who listened, they meant everything"_.
