@@ -9,7 +9,7 @@ I am **Basil Labib**. I am 17. I am a high school student and expect to graduate
 
 I take keen interest in STEM in general and Computer Science in particular. I absolutely love Physics and Applied Mathematics. I also like Biology. I like challenges, academic or otherwise. 
 
-I am a simple person. I don't take attacks personally (ever) cause it's a _very_ foolish thing to do. I don't lose my cool easily either but I cannot take bullshit indefinitely.   
+I am a simple person. I don't lose my cool easily but cannot take bullshit indefinitely.   
 
 I am not a particularly fond sight to look at but I do good enough for a human being. I am _very_ quiet with other people around but I can be _really great_ company if _you_ start the conversation. 
 

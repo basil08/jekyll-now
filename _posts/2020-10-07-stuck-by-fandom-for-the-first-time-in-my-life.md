@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Stuck by fandom for the first time in my life
-author: Basil
-categories: music fan dreampop "Cocteau Twins" 
+author: Basil Labib
+tags: music dreampop cocteautwins fan
 ---
 
 Ethereal, heavenly, celestial, opulent, splendid, otherworldly - these adjectives form the regular staple used by people who dare to describe the music of the Cocteau Twins (pronounced: cock-tow twins). But really I think it's an effort in vain. Because this band defies all possibilities of being defined by words. Cage them in artificial genres and you will fail. You can only _experience_ their _"sacred microcosm"_ yourself as Azam Ali so eloquently puts [it][azamali]. 
@@ -13,7 +13,7 @@ Yes! This is the story of when I was stuck by fandom for the very first time in 
 
 Trying to be a fan of a band which breathed its last almost a decade before I was even born is difficult. So when I _did_ discover Cocteau Twins I almost felt it was a decree of God Himself to show me what celestial beauty truly felt like.  
 
-It was during a breezy rewatch of "The Perks of Being A Wallflower" (delightful story. Read more about it [here][perks]) that I noticed Sam (Emma Watson) confront Charlie (Logan Lerman) with the name of a funny song title. "Then I heard this old song. Pearly Dewdrops' Drop". Hmph. But I took a mental passing note. So I have this habit of digging out trivia, soundtracks, wiki etc about any movie I watch cause I believe it makes my experience more "fulfilling" somehow(!). (As a more practical perk, it sure helps me in quizzes) 
+It was during a breezy rewatch of "The Perks of Being A Wallflower" (delightful story. Read more about it [here][perks]) that I noticed Sam (Emma Watson) confront Charlie (Logan Lerman) with the name of a funny song title. "Then I heard this old song. Pearly Dewdrops' Drop". Hmph. But I took a mental passing note. I have this habit of digging out trivia, soundtracks, wiki etc about any movie I watch cause I believe it makes my experience more "fulfilling" somehow(!). (As a more practical perk, it sure helps me in quizzes) 
 
 I remember that first time when I innocuously played PDD on YouTube wondering it'll be a regular song. But oh boy, there it was. Intriguing and writhing with life.   
 
