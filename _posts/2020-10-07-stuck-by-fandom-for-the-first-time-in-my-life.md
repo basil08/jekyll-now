@@ -5,7 +5,7 @@ author: Basil Labib
 tags: music dreampop cocteautwins fan
 ---
 
-Ethereal, heavenly, celestial, opulent, splendid, otherworldly - these adjectives form the regular staple of people who dare to describe the music of the Cocteau Twins (pronounced: cock-tow twins). But really I think it's an effort in vain. Because this band defies all possibilities of being defined by words. Cage them in artificial genres and you will fail. You can only _experience_ their _"sacred microcosm"_ yourself as Azam Ali so eloquently puts [it][azamali]. 
+Ethereal, heavenly, celestial, opulent, splendid, otherworldly - these adjectives form the regular staple of people who dare to describe the music of the Cocteau Twins (pronounced: cock-tow twins). Honestly, I think it's an effort in vain. Because this band defies all possibilities of being defined by words. Cage them in artificial genres and you will fail. You can only _experience_ their _"sacred microcosm"_ yourself as Azam Ali so eloquently puts [it][azamali]. 
 
 Yes! This is the story of when I was stuck by fandom for the very first time in my life.
 
@@ -55,16 +55,16 @@ The band participated in 4AD's The Mortal Coil project in 1983, producing the sp
 <!-- Reason for disbandment.    -->
 
 <!-- Bella union and into the future   -->
-The band members chose their paths relatively independent of each others. Simon Raymonde found his own music label [Bella Union Records][bella]. Elizabeth has lent her voice to various artist productions, most notable among them is perhaps on [Teardrop][teardrop] on Massive Attack's Mezzanine album. Robin recorded his solo album, _Imperial_ with Harold Budd, which went on to become the film score of Gregg Araki's [_Mysterious Skin_][mysticskin].  
+The band members chose their paths relatively independent of each others. Simon Raymonde found his own music label [Bella Union Records][bella]. Elizabeth has lent her voice to various artist productions, most notable among them is perhaps on [Teardrop][teardrop] on Massive Attack's Mezzanine album. Robin recorded his solo album, _Imperial_ with Harold Budd, which went on to become the film score of Gregg Araki's _Mysterious Skin_.  
  
 ## Get what Cocteau Twins really are (and what they are not):
 {% include image.html url="/assets/images/twins-7.jpg" description="(l-r): Robin Guthrie, Simon Raymonde and Elizabeth Fraser, pictured in 1983, a year before their signature album, Treasure. Source: Google Images" %}   
 
-**The soundscapes matter. Not the lyric** Liz uses her voice as an instrument which weaves that magnificent tapestry of acoustic grandeur alongside Robin Guthrie's guitar and Simon Raymonde's bass. It is _not conventional singing_ which one expects.
+**The soundscapes matter. Not the lyrics**. Liz uses her voice as an instrument which weaves that magnificent tapestry of acoustic grandeur alongside Robin Guthrie's guitar and Simon Raymonde's bass. It is _not conventional singing_ which one expects.
 
-The CT tracks are _not_ in any way singalongs. In fact the lyrics are so obscured, you can only ever hear the sounds in your head and heart but can never bring it to your mouth.
+The CT tracks are _not_ in any way singalongs. In fact the lyrics are so obscured, you can only ever hear the sounds in your head and heart but can never hum it in the bathroom. 
 
-CT tracks are not party music. They are really meant to be listened in solitary, perhaps with a companion (more on this later!) on a breezy afternoon with the sunrays obliquely filtering through the curtains.
+CT tracks are not party music. They are really meant to be listened in solitary, perhaps with a companion (more on this later!) on a breezy afternoon with the sun rays obliquely filtering through the curtains.
 
 The Cocteau Twins never supplied any lyric sheets with their records, save for the occasion of "Four Calendar Cafe" where Liz specifically wanted people to know the turbulence in her life and the failing marriage.
  
@@ -72,9 +72,7 @@ It has been recorded and documented that people have tried to make babies  to th
 
 ## Closing Remarks   
 
-<!-- {% include image.html url="/images/my-cat.jpg" description="My cat, Robert Downey Jr." %} -->
-{% include  image.html url="/assets/images/Melody-Maker-Treasure-Review.jpg" description="S. Sutherland's daring review of Treasure, 1984. Notice the last sentence. Source: Official Site" %}
-<!-- ![image ""](/assets/images/Melody-Maker-Treasure-Review.jpg)  -->
+{% include  image.html url="/assets/images/Melody-Maker-Treasure-Review.jpg" description="Steven Sutherland's daring review of Treasure, 1984. Notice the last sentence. Source: official site" %}
 
 And just like that the Cocteaus shot into limelight suffusing our lives with joy and yearning. And as swiftly, they dispersed. Be whatever it may, as [Trash Theory][tt] puts it, _"for those who listened, they meant everything"_.
 
@@ -96,4 +94,6 @@ And just like that the Cocteaus shot into limelight suffusing our lives with joy
 [tt]: https://www.youtube.com/watch?v=5djsipzlWUc 
 [songtothesiren]: https://www.youtube.com/watch?v=HFWKJ2FUiAQ
 [simpleminds]: https://en.wikipedia.org/wiki/Simple_Minds
-[bella]: https://bellaunion.com/ 
+[bella]: https://bellaunion.com/
+[teardrop]: https://www.youtube.com/watch?v=u7K72X4eo_s
+ 
