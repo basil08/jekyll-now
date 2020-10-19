@@ -23,15 +23,17 @@ I ended up with 3 other people from around the world collaborating on a project 
 
 Everyone didn't really dispelled their identities but I could place some reasonable guesses.   
  
-`thatrobotdev#7598` (James Kerrane) was a high school freshman (I am a high schooler too!). He had quite a few interesting ideas (and we eventually went ahead with one of his). He was in MST which puts him 2 hours ahead of EST and somewhere in North America.
-`sameem#7817` Sameem was a cs freshman at a university in Pakistan. She was the closest mate I had in terms of proximity.
-`alt er love#7019` was a freshman who contributed substantially to negotiations and  building. This person was the most ambiguous of all ( I don't even know his gender). He/She was from the US eastern coast, that's all I know.
+`thatrobotdev#7598` (James Kerrane) was a high school freshman (I am a high schooler too!). He had quite a few interesting ideas (and we eventually went ahead with one of his). He was in MST which puts him 2 hours ahead of EST and somewhere in North America. 
+
+`sameem#7817` Sameem was a CS freshman at a university in Pakistan. She was the closest mate I had in terms of proximity.  
+
+`alt er love#7019` was a freshman who contributed substantially to negotiations and building. This person was the most ambiguous of all ( I don't even know his gender). He/She was from the US eastern coast, that's all I know.
 
 ## My experience
 
 I missed the opening ceremony as there was _absolutely no way_ I was gonna wake up at 2:30 am and listen to people giving boring keynotes sitting in their homes at 5 in the evening.
 
-I did attend an ice breaker just for the sake of knowing what they are like. Ice breakers are generally mini-events or games which are aimed at breaking the initial discomfort of being in the company of strangers and facilitating opening up. It wasn't pretty uninteresting especially at 5am.
+I did attend an ice breaker just for the sake of knowing what they are like. Ice breakers are generally mini-events or games which are aimed at breaking the initial discomfort of being in the company of strangers and facilitating opening up. It wasn't pretty interesting especially at 5am.
 
 I attended one basic CTF workshop (again just for the sake of experiencing one) and it was pretty OK. There were many prizes to be won for different things, all shipped to your home(!)
 
@@ -39,7 +41,7 @@ Apart from that, I primarily programmed on `repl.it`. We planned to build a fron
 
 ## Regrets
 
-Ah, I so wished this were an in-person hackathon so I could have meet those awesome people. And had way more fun than what I did. Also, apologize that I am at a deficiency of good album photographs :(.   
+Ah, I so wished this were an in-person hackathon so I could have meet those awesome people. And had way more fun than what I did. Also, apologies for being at a deficiency of good album photographs :(.
 
 Maybe, I'll also mention not studying for school and JEE under regret, though it's more of guilt honestly. 
 
