@@ -5,17 +5,23 @@ title: About
 
 Hi there! 
 
-I am **Basil Labib**. I am 17. I am a high school student and expect to graduate next year from Birla High School, Kolkata. 
+I am **Basil Labib*. I am 17. I am a high school student and expect to graduate next year from [Birla High School](https://birlahighschool.com), Kolkata. 
 
 I take keen interest in STEM in general and Computer Science in particular. I absolutely love Physics and Applied Mathematics. I also like Biology. I like challenges, academic or otherwise. 
 
 I am a simple person. I don't lose my cool easily but cannot take bullshit indefinitely.   
 
+I believe in making an impact where it matters the most.
+
+I believe in letting knowledge be free for those who wish to acquire it.  
+
+I would rather be in a quiet place with few meaningful people than in a loud place with a crowd.  
+
 I am not a particularly fond sight to look at but I do good enough for a human being. I am _very_ quiet with other people around but I can be _really great_ company if _you_ start the conversation. 
 
 I **can't stand** injustice and hypocrisy. I feel quite strongly for institutions and systems that most of us have grown up with. 
 
-I think the mind is the most essential commodity and it must be treasured (and employed). 
+I believe that the mind is the most essential commodity and it must be treasured and employed. 
 
 I idolize Aaron Swartz, Linus Torvalds among many others. I quote Aaron saying "I don't hold grudges. They are unproductive". No one could possibly have put it more eloquently. 
 
