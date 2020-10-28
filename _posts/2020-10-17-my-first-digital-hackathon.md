@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Digital Hackathon
+title: My first digital hackathon
 author: Basil Labib
 ---
 
@@ -11,11 +11,13 @@ My first digital hackathon falls in the first category. Even now, when I reminis
 
 ## It all starts with music (Seriously, no kidding)
 
-I had my earphones plugged on a lazy Thursday afternoon. It was either ABBA or Cocteau Twins and I came across this podcast on Spotify called "How to Start a Startup" by  Sam Altman, President of Y Combinator. I ended up reading the transcripts for the first intro lecture. And their, nestled in one annotation was a link to [Major League Hacking](https://mlh.io). A website which curates ongoing hackathons around the globe. Due to the grace of the pandemic this year, all events are digital and hence, open to anyone. I ended up signing for one!
+I had my earphones plugged on a lazy Thursday afternoon. It was either ABBA or Cocteau Twins and I came across this podcast on Spotify called "How to Start a Startup" by  Sam Altman of Y Combinator fame. I ended up reading the transcripts for the first intro lecture. And their, nestled in one annotation was a link to [Major League Hacking](https://mlh.io). A website which curates ongoing hackathons around the globe.   
+
+Due to the grace of the pandemic this year, all events are digital and hence, open to anyone. I ended up signing for one!
 
 ## The fine print
 
-`hack@home` was the first digital hackathon conducted by the CS club of Brown University. It was a four day long weekend including loads of talks, ctfs, model training (ML), fun events, games, workshops, software engineering and of course, hacking!
+`hack@home` was the first digital hackathon conducted by the CS club of [Brown University](https://www.brown.edu). It was a four day long weekend including loads of talks, ctfs, model training (ML), fun events, games, workshops, software engineering and of course, hacking!
 
 I ended up with 3 other people from around the world collaborating on a project decided upon on a discord chat group on a weekend. As crazy as it may sound, I was pretty excited as an additional fun fact was Brown University is in Eastern Time Zone, exactly -0930 from IST. With complete inversion of timezones on my first hackathon, I knew I was in for some fun :).
 
@@ -23,11 +25,11 @@ I ended up with 3 other people from around the world collaborating on a project 
 
 Everyone didn't really dispelled their identities but I could place some reasonable guesses.   
  
-`thatrobotdev#7598` (James Kerrane) was a high school freshman (I am a high schooler too!). He had quite a few interesting ideas (and we eventually went ahead with one of his). He was in MST which puts him 2 hours ahead of EST and somewhere in North America. 
+`thatrobotdev` (James Kerrane) was a high school freshman. He had quite a few interesting ideas (and we eventually went ahead with one of his). He was in MST which puts him 2 hours ahead of EST and somewhere in North America. 
 
-`sameem#7817` Sameem was a CS freshman at a university in Pakistan. She was the closest mate I had in terms of proximity.  
+`sameem` Sameem was a CS freshman from Pakistan. She was the closest mate I had in terms of proximity.  
 
-`alt er love#7019` was a freshman who contributed substantially to negotiations and building. This person was the most ambiguous of all ( I don't even know his gender). He/She was from the US eastern coast, that's all I know.
+`alt er love` was a freshman who contributed substantially to negotiations and building. This person was the most ambiguous of all (I don't even know their gender).They were from the US eastern coast, that's all I know.
 
 ## My experience
 
@@ -37,7 +39,7 @@ I did attend an ice breaker just for the sake of knowing what they are like. Ice
 
 I attended one basic CTF workshop (again just for the sake of experiencing one) and it was pretty OK. There were many prizes to be won for different things, all shipped to your home(!)
 
-Apart from that, I primarily programmed on `repl.it`. We planned to build a frontend app which aided in speech memorization but our plan couldn't mature to fruition. Anyway, I had a blast working on the collaborative repl, with watching other people writing code alongside me. It was pretty fun on their discord server too :) .
+Apart from that, I primarily programmed on [repl](https://repl.it). We planned to build a frontend app which aided in speech memorization but our plan couldn't mature to fruition. Anyway, I had a blast working on the collaborative repl, with watching other people writing code alongside me. It was pretty fun on their discord server too :) .
 
 ## Regrets
 
