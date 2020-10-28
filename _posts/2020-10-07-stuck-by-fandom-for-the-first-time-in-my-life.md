@@ -58,7 +58,7 @@ The band participated in 4AD's The Mortal Coil project in 1983, producing the sp
 The band members chose their paths relatively independent of each others. Simon Raymonde found his own music label [Bella Union Records][bella]. Elizabeth has lent her voice to various artist productions, most notable among them is perhaps on [Teardrop][teardrop] on Massive Attack's Mezzanine album. Robin recorded his solo album, _Imperial_ with Harold Budd, which went on to become the film score of Gregg Araki's _Mysterious Skin_.  
  
 ## Get what Cocteau Twins really are (and what they are not):
-{% include image.html url="/assets/images/twins-7.jpg" description="(l-r): Robin Guthrie, Simon Raymonde and Elizabeth Fraser, pictured in 1983, a year before their signature album, Treasure. Source: Google Images" %}   
+{% include image.html url="/assets/images/CT-1983.jpg" description="(l-r): Robin Guthrie, Simon Raymonde and Elizabeth Fraser, pictured in 1983, a year before their signature album, Treasure. Source: Google Images" %}   
 
 **The soundscapes matter. Not the lyrics**. Liz uses her voice as an instrument which weaves that magnificent tapestry of acoustic grandeur alongside Robin Guthrie's guitar and Simon Raymonde's bass. It is _not conventional singing_ which one expects.
 
