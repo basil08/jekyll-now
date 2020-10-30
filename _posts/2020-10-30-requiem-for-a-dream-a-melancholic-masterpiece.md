@@ -16,7 +16,7 @@ A pyschological thriller telling an intertwined story drug abuse of four connect
 
 A number of diverse techniques were used in the film, which coupled with the grandoise tragic soundtrack by Clint Mansell (listen to [Lux Aeterna][lux] to descend into the mood of requiem) produces an effect which promises to last for a long time.
 
-{% include image.html url="/assets/images/requiem-marion-harry.jpg" description="Marion and Harry in _Requiem for a Dream_" %}
+{ % include image.html url="/assets/images/requiem-marion-harry.jpg" description="Marion and Harry in _Requiem for a Dream_" % }
 
 The signature technique is probably the quick shot sequences (also called "hip hop montages"), shot in quick succession of frames to express thrill. Take the drug injecting sequence which is fantastically potrayed by imageries of popping pills, click of the lighter, pushing of the plunger, flowing fluid in the veins and dilating pupils.
 
@@ -36,7 +36,7 @@ The film also features close-ups, time-lapse photography and >2000 cuts. (averag
 
 3. **Marion Silver** : She is the girl with a potential who jeopardizes herself as a result of wrong decisions in younger times. She and Harry are typical teenage completely foiled by first love, thrill and of course, drugs. Both of them become progressively dependent on drugs even for menial emotional needs such as not breaking down or overcoming body shaming.
 
-{% image.html url="/assets/images/requiem-frustration-compressed-cropped.gif" description="Unbridled frustration." %}
+{% include image.html url="/assets/images/requiem-frustration-compressed-cropped.gif" description="Unbridled frustration." %} 
 
 4. **Tyrone S. Love** : He merely wanted to be worthy in the eyes of her mother.
 
