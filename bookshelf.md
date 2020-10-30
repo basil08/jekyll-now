@@ -81,7 +81,7 @@ Most of them were losers too.
 
 14. **The Catcher in the Rye - by J. D. Salinger**
 
-	> Teenage angst overload? Pimples? Defiance? Insanity? Cynical? Vulnerable? All check. A classic which painted for the definitive _modern_ adolescent. Lots of memorable characters, Holden Caulfield being the most. I hardly (and thankfully!) connect with Holden. Infact, it set me thinking _if I am missing out_. :shrug:   
+	> Teenage angst overload? Pimples? Defiance? Insanity? Cynical? Vulnerable? All check. A classic which painted for the definitive _modern_ adolescent. Lots of memorable characters, Holden Caulfield being the most. I hardly (and thankfully!) connect with Holden. Infact, it set me thinking _if I am missing out_. :no_mouth:
 
 15. **Head First JavaScript - by Morrison (O' Reilly Press)**
 
@@ -91,7 +91,7 @@ Most of them were losers too.
 
 16. **Rosalind Franklin, The Dark Lady of DNA - by Brenda Maddox**
 
-	> A sympathetic read about my first genuine crush. But shh! Besides, you will probably laugh if you happen to be reading the blog of a person who has crushes on dead people...:zip_face:
+	> A sympathetic read about my first genuine crush. But shh! Besides, you will probably laugh if you happen to be reading the blog of a person who has crushes on dead people :sweat_smile:
 	
 	<!-- Link "that" image of Rosalind Franklin -->
 	![Dreamy "Rosy"](/assets/images/rosalind-franklin-medium.jpg)  
