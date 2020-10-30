@@ -44,5 +44,5 @@ You can know about my reading endeavours [here](/bookshelf)
 
 Have a suggestion, idea or just wanna talk? Shoot me an email [here](mailto:gs454236@gmail.com) and I'll be happy to chat back!  
 
-I hope you will enjoy your way around here! 
+I hope you will enjoy your way around here! :smile:
 
