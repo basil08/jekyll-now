@@ -21,8 +21,9 @@ This is the bookshelf of all my reading endeavours. Right now, it's a big pile o
 
 3. **The Perks of Being a Wallflower - by Stephen Chobsky**
 
-	> I liked it. A coming-of-age story of a scarred teenager who found himself (and made friends). I remember making the mistake of watching the [movie][wallflower] first and that robbed me of the opportunity to visualise Sam :P.   
-I was experimenting with audiobooks then and it did not appeal to me appreciable.   
+	> I liked it. A coming-of-age story of a scarred teenager who found himself (and made friends). I remember making the mistake of watching the [movie][wallflower] first and that robbed me of the opportunity to visualise Sam :P.    
+
+	> I was experimenting with audiobooks then and it did not appeal to me appreciable.   
 
 4. **A Thousand Splendid Suns - by Khaled Hosseini**
 
@@ -40,7 +41,6 @@ I was experimenting with audiobooks then and it did not appeal to me appreciable
 
 	> A fascinating book which aims to (and succeeds) in destroying the lore of black magic that surrounds the "enigmatic" field of Programming Language Designing. The Java interpreter implementation hides low-level details and aims to introduce the concepts while the C compiler implementation is hard-core language designing with manual grabage-collection, optimization and all the good stuff. And oh, the illustrations are [hand-drawn][bob_blog]. I have only read the Java interpreter though.  
 
-<!-- Google Nested list how-to? -->
 	> * [Bob's blog][bob_blog]: I like this guy for his attitude towards teaching stuff to others. I guess we should all be like him.  
 	> * [The Dragon Book][dragon_book]: I am not crazy _and_ this is on my reading list (I have even leaved through the book).
 
@@ -53,16 +53,16 @@ I was experimenting with audiobooks then and it did not appeal to me appreciable
 	> My introduction to Zen and Taoism. This book was among the most recommended among [Tim Ferriss' guests][ferriss_guest] so I picked it up. Highly rewarding and really worth multiple reads.   
 	> My favourite excerpt? Oh, there are too many! But to quote an example,
  <!-- Look up this quote and add the correct quote here  -->      
-	> When nothing is done,    
-	> nothing is left undone.   
-	> \- Lao Tzu, Tao Te Ching  
+	>> When nothing is done,    
+	>> nothing is left undone.   
+	>> \- Lao Tzu, Tao Te Ching  
 
 10. **Just for Fun, The Story of an Accidental Revolutionary - by Linus Torvalds and David Diamond**
 
-	> Story of the nerd who changed the course of mankind's development told by himself? Check. It's like standing in a Hall of Fame (for me). No wonder Linus comes closest to the _idol_ I yearn to have. I quote him saying, 
-<!-- Refer to quote from book and add here -->
-	> I was kind of aware of friends getting laid more, but that was okay.   
-Most of them were losers too.
+	> Story of the nerd who changed the course of mankind's development told by himself? Check. It's like standing in a Hall of Fame (for me). No wonder Linus comes closest to the _idol_ I yearn to have. I quote him saying,
+	<!-- Refer to quote from book and add here -->
+	>> I was kind of aware of friends getting laid more, but that was okay.   
+Most of them were losers too.   
 	> Also, impressed by his throughly-thought after ideas about Open Source, it's mechanism, implications, pros and cons.   
 
 11. **The Brothers Karamazov - Fyodor Dostoyevsky**
@@ -76,7 +76,8 @@ Most of them were losers too.
 13. **Ready Player One - by Ernst Cline**
 
 	> A great book which got me fanatically digging up _ancient relics_ from the 80s. Set in a dystopian world where people jack into the OASIS, a virtual reality to hide in an illusion. Wade Watts must find the Easter Egg to inherit the OASIS from its creator, Halliday or else it passes into the hands of IOI, a corporate. Told in a gripping style, it was a "research book" for me and highly rewarding.   
-PS: Needless to say, can't wait for [this][announcement_rp2].   
+
+	> PS: Needless to say, can't wait for [this][announcement_rp2].   
 
 14. **The Catcher in the Rye - by J. D. Salinger**
 
@@ -84,15 +85,16 @@ PS: Needless to say, can't wait for [this][announcement_rp2].
 
 15. **Head First JavaScript - by Morrison (O' Reilly Press)**
 
-	> My first encounter with the most ubiquitous language on the Web. Such a pity that its such a poorly designed language. I remember picking it up after being motivated to build my own website and so you see. Of course, I won't _ever_ recommend this book to anyone because it's _so_ obsolete. Perhaps you will be better off checking out [MDN Web docs][mdn_web_doc] for an introduction to the latest JS.   
-But if you do have time, this book might be a nice read to understand _why_ others built abstractions and tools and frameworks they did. But in the super-fast highway of web dev, its really a dream.    
+	> My first encounter with the most ubiquitous language on the Web. Such a pity that its such a poorly designed language. I remember picking it up after being motivated to build my own website and so you see. Of course, I won't _ever_ recommend this book to anyone because it's _so_ obsolete. Perhaps you will be better off checking out [MDN Web docs][mdn_web_doc] for an introduction to the latest JS.    
+
+	> But if you do have time, this book might be a nice read to understand _why_ others built abstractions and tools and frameworks they did. But in the super-fast highway of web dev, its really a dream.    
 
 16. **Rosalind Franklin, The Dark Lady of DNA - by Brenda Maddox**
 
-	> A sympathetic read about my first genuine crush. But shh! Besides, you will probably laugh if you happen to be reading the blog of a person who has crushes on dead people...:zip_face:   
-
-<!-- Link "that" image of Rosalind Franklin -->
-![Dreamy "Rosy"](/assets/images/rosalind-franklin-medium.jpg)     
+	> A sympathetic read about my first genuine crush. But shh! Besides, you will probably laugh if you happen to be reading the blog of a person who has crushes on dead people...:zip_face:
+	
+	<!-- Link "that" image of Rosalind Franklin -->
+	![Dreamy "Rosy"](/assets/images/rosalind-franklin-medium.jpg)  
 	> And I was smitten. Also, I am not ashamed to say but this picture alone motivated me to _complete this whole book_.(I blatantly leave books midway if I lose interest).  
 	> She had her complexity and flaws though.   
 
@@ -103,10 +105,12 @@ But if you do have time, this book might be a nice read to understand _why_ othe
 18. **The Power - by Naomi Alderman**
 
 	> Another one of those books where I cheated. It's ~300 pages. And quite stupid. In fact, it compels me to call it obnoxious as a sci-fi story. The premise is fantastic (and the author takes great care to yield it successfully) but it is just **not** possible for the society it weaves to be stable. (But then that's the point of stories. They _are_ mere stories.) 
+
 	> Somewhere along the way female-kind develops the ability to discharge electricity from their bodies at will (like eels) due to some wacky nervous-agent used in WW2. And then Hades breaks loose. Upend religion, rape and murder men at will, and as they call it "right all wrongs". Wacky.    
 19. **Mastering VIM - by Jovica Ilic**
 
-	> Short and sweet introduction to a fantastic editor. Honestly, I haven't looked back to VS Code since. The text is not terse enough which makes it sound more like a tutorial and thus is great from a learning perspective. And I got so much from it! 
+	> Short and sweet introduction to a fantastic editor. Honestly, I haven't looked back to VS Code since. The text is not terse enough which makes it sound more like a tutorial and thus is great from a learning perspective. And I got so much from it!   
+
 	> Oh and before I forget, you can sign up [here][vimnewsletter] for weekly VIM nuggets. This is _such_ an ideal way for me to learn VIM progessively. (And should be for you too!)
 
 ## Currently Reading   
