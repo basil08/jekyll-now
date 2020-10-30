@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Requiem for a Dream" - A Melancholic Masterpiece
+title: ! '"Requiem for a Dream" - A Melancholic Masterpiece'
 author: Basil Labib
 excerpt_separator: <!--more-->
 ---
