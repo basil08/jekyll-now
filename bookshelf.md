@@ -15,7 +15,7 @@ This is the bookshelf of all my reading endeavours. Right now, it's a big pile o
 
 <!-- Add quote from the book -->
 > My first read this year (2020). I started just after taking the last of my annuals and I remember laughing hard. It's a romcom about a genetic professor suffering from Asperger's trying to find a wife. The `Wife Project` still gives me giggles. Oh and I remember picking this up after seeing it on [Bill Gate's to-read list][gates_read_list].
-[Amazon link](https://www.amazon.com/Rosie-Project-Novel-Tillman-Book-ebook/dp/B00BSBR9N6).
+<!-- add goodreads link to the book -->
 
 2. **Daemon - by Daniel Suarez**
 
@@ -113,13 +113,22 @@ But if you do have time, this book might be a nice read to understand _why_ othe
 > Another one of those books where I cheated. It's ~300 pages. And quite stupid. In fact, it compels me to call it obnoxious as a sci-fi story. The premise is fantastic (and the author takes great care to yield it successfully) but it is just **not** possible for the society it weaves to be stable. (But then that's the point of stories. They _are_ mere stories.) 
 
 > Somewhere along the way female-kind develops the ability to discharge electricity from their bodies at will (like eels) due to some wacky nervous-agent used in WW2. And then Hades breaks loose. Upend religion, rape and murder men at will, and as they call it "right all wrongs". Wacky.    
+19. **Mastering VIM | From WTF to OMG - by Jovica Ilic**
+
+> Short and sweet introduction to a fantastic editor. Honestly, I haven't looked back to VS Code since. The text is not terse enough which makes it sound more like a tutorial and thus is great from a learning perspective. And I got so much from it! Oh and before I forget, you can sign up [here](vimnewsletter) for weekly VIM nuggets. This is _such_ an ideal way for me to learn VIM progessively. (And should be for you too!)
 
 ## Currently Reading   
 
-1. **Breakfast at Tiffany's - by Truman Capote**
-2. **Practical React Native - by Frank Zametti**  
-3. **The Art of Game Design - by Jesse Schell**
+1. Technical track
+	* The Hundred-Page Machine Learning Book - Andriy Burkov (It's more like 150 pages!)
+	* Practical React Native - Frank Zammetti 
+	* Pro MERN Stack - Vasan Subramanian
 
+2. Non-technical track
+	* The White Tiger - Aravind Adiga
+	* Elon Musk - Ashlee Vance
+
+		
 [gates_read_list]: https://youtu.be/a47dqygseGo
 [wallflower]: https://www.imdb.com/title/tt1659337/
 [rosie_result]: https://www.goodreads.com/book/show/41018628-the-rosie-result
@@ -128,3 +137,4 @@ But if you do have time, this book might be a nice read to understand _why_ othe
 [ferriss_guest]: https://toolsoftitans.com/
 [announcement_rp2]: https://deadline.com/2020/07/ready-player-two-sequel-novel-ernest-cline-november-publication-date-1202980261/
 [mdn_web_doc]: https://developer.mozilla.org/en-US/docs/Learn
+[vimnewsletter]: http://masteringvim.com

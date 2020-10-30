@@ -51,6 +51,10 @@ url: https://basil08/github.io
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: ""
 
+# [Basil] My configurations 
+# fix for nested list in jekyll
+markdown: rdiscount 
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #
