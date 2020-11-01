@@ -13,11 +13,24 @@ You can refer to these excellent articles which I used:
 
 ## Questions?   
 
-Shoot me an email [here](mailto:gs454236@gmail.com) and I'll be happy to mail back! 
+Shoot me an email [here](mailto:basillabib01@gmail.com) and I'll be happy to mail back! 
+
+## LICENSE  
+
+The contents listed under the following directories are Copyright Basil Labib. You may not use anything therein without my permission.   
+1. `_posts`
+2. `_drafts`
+3. `assets`  
+4. Any content that is implicitly part of my _personal_ blog. (Rational judgement made by you in a sound mind)
+
+All other content is MIT licensed as it should be.  
+
 
 ## Credits 
 
-This site uses [Jekyll Now](https://github.com/barryclark/jekyll-now) by [Barry Clark](https://github.com/barryclark).    
+This site uses:   
+1. [Jekyll Now](https://github.com/barryclark/jekyll-now) by [Barry Clark](https://github.com/barryclark).    
+2. [SVG Icons](https://github.com/neilorangepeel/Free-Social-Icons) by [Neil Orange Peel](https://github.com/neilorangepeel).   
 
 [amanda]: http://programminghistorian.org/lessons/building-static-sites-with-jekyll-github-pages
 [steel]: https://medium.com/@steelwagstaff/how-to-make-a-website-d1e83f30043b
