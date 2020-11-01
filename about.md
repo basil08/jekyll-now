@@ -42,7 +42,7 @@ You can know about my reading endeavours [here](/bookshelf)
 
 ## Contact me  
 
-Have a suggestion, idea or just wanna talk? Shoot me an email [here](mailto:gs454236@gmail.com) and I'll be happy to chat back!  
+Have a suggestion, idea or just wanna talk? Shoot me an email [here](mailto:basillabib01@gmail.com) and I'll be happy to chat back!  
 
 I hope you will enjoy your way around here! :smile:
 

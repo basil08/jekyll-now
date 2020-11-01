@@ -71,7 +71,7 @@ Most of them were losers too.
 
 12. **Who moved my Cheese? - by Dr. Spencer Johnson**
 
-	> Ok, let me confess. I _still_ don't get the point of this book. We have to change and adapt lest we want to become obsolete and perish. Is this all? Or am I missing something? Please [help me](/) here.   
+	> Ok, let me confess. I _still_ don't get the point of this book. We have to change and adapt lest we want to become obsolete and perish. Is this all? Or am I missing something? Please [help me](/about.html) here.   
 
 13. **Ready Player One - by Ernst Cline**
 
