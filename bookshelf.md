@@ -111,7 +111,14 @@ Most of them were losers too.
 
 	> Short and sweet introduction to a fantastic editor. Honestly, I haven't looked back to VS Code since. The text is not terse enough which makes it sound more like a tutorial and thus is great from a learning perspective. And I got so much from it!   
 
-	> Oh and before I forget, you can sign up [here][vimnewsletter] for weekly VIM nuggets. This is _such_ an ideal way for me to learn VIM progessively. (And should be for you too!)
+	> Oh and before I forget, you can sign up [here][vimnewsletter] for weekly VIM nuggets. This is _such_ an ideal way for me to learn VIM progessively. (And should be for you too!)    
+
+20. **The White Tiger - by Aravind Adiga**  
+
+	> A social satire which will make you laugh hard and grimly introspect your actions at the same time. Set in India, the principal seat of satire and hypocrisy in the world, follow a "servant" from Laxmangarh who became a _man_, enterpreneur and much more. A debut novel bagging the Man Booker Prize in 2008, I surely have to watch out for this author. 
+	> A must-read eye-opener for every Indian. Gruelsome and vile in parts but starkingly true in the whole.      
+	> Sample this: "Being called a murderer: fine, I have no objection to that. It's a fact: I am a sinner, a fallen human. But to be called a murderer by the police! _What a fucking joke._"   
+ 
 
 ## Currently Reading   
 
@@ -121,9 +128,8 @@ Most of them were losers too.
 	* Pro MERN Stack - Vasan Subramanian
 
 2. Non-technical track
-	* The White Tiger - Aravind Adiga
 	* Elon Musk - Ashlee Vance
-
+	* Flow - Mihaly Csikszentmihalyi
 		
 [gates_read_list]: https://youtu.be/a47dqygseGo
 [wallflower]: https://www.imdb.com/title/tt1659337/

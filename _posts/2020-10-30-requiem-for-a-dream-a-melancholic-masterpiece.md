@@ -16,7 +16,7 @@ A pyschological thriller telling an intertwined story drug abuse of four connect
 
 A number of diverse techniques were used in the film, which coupled with the grandoise tragic soundtrack by Clint Mansell (listen to [Lux Aeterna][lux] to descend into the mood of requiem) produces an effect which promises to last for a long time.  
 
-{% include image.html url="/assets/images/requiem-marion-harry.jpg" description="Marion and Harry in _Requiem for a Dream_" %}  
+{% include image.html url="/assets/images/requiem-marion-harry.jpg" description="Marion and Harry in Requiem for a Dream" %}  
 
 The signature technique is probably the quick shot sequences (also called "hip hop montages"), shot in quick succession of frames to express thrill. Take the drug injecting sequence which is fantastically potrayed by imageries of popping pills, click of the lighter, pushing of the plunger, flowing fluid in the veins and dilating pupils.   
 
