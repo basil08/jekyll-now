@@ -76,8 +76,24 @@ It has been recorded and documented that people have tried to make babies  to th
 
 And just like that the Cocteaus shot into limelight suffusing our lives with joy and yearning. And as swiftly, they dispersed. Be whatever it may, as [Trash Theory][tt] puts it, _"for those who listened, they meant everything"_.
 
-<!-- References:   -->
+## A confession  
 
+Google "Cocteau Twins" and you'll be presented with a heavily SEO'd set of webpages from major review sites I don't wanna name with titles like "10 of the best CT tracks", "20 of the greatest dream pop". Don't pay heed to those articles. They are bullshit.   
+
+How can you just pick up only the most prominent tracks from a band's repertoire without taking into consideration their entire output? It only shows negligence when you don't research enough and are in a rush to publish an article for a screaming boss or whatever.  
+
+But please understand it leads to a shrewd perception of reality for whosoever comes after and is counting on _you_ to give them accurate information. (this applies to you even more if you are admired and looked up to.) You _are_ responsible.     
+
+
+<!-- References:   -->
+## Can't get enough?   
+
+1. Head over to [Eric Roosendall's][ericr] exhaustive review of _every Cocteau track_ in the most passionate manner. This is my definitive encyclopedia of the Cocteaus. Every CT fan must read the whole subsite at least once. It's amazing.     
+
+2. There is no higher clearing house than the [official website][officialwebsite] when it comes to discrepancies or tracking rarities. Check out "News and Press"; it was particularly enthralling for a 17 y/o in 2020 reading band interviews and album reviews of the 80s.    
+
+
+ 
 [perks]: /
 [officialwebsite]: https://cocteautwins.com 
 [azamali]: https://www.talkhouse.com/the-sacred-microcosm-of-the-cocteau-twins
@@ -96,4 +112,4 @@ And just like that the Cocteaus shot into limelight suffusing our lives with joy
 [simpleminds]: https://en.wikipedia.org/wiki/Simple_Minds
 [bella]: https://bellaunion.com/
 [teardrop]: https://www.youtube.com/watch?v=u7K72X4eo_s
- 
+[ericr]: http://ericr.nl/cocteaus/index.html

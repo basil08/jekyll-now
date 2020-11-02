@@ -6,7 +6,15 @@ permalink: /bookshelf/
 
 ## Abstract   
 
-This is the bookshelf of all my reading endeavours. Right now, it's a big pile of unorganized data. I wish to organize it later into categories (hopefully). 
+Inspired by Patrick Collison's luscious [bookshelf][bookshelf], this page is the list of books I have read in the current year (whichever year you are reading it). Most of these are plucked from other people's recommendation lists, popular choices, stuff I find interesting or just a random topic I want to learn about on a Saturday evening. Suggestions? Drop me a [line][mailto] here!  
+
+1. Check out [my current reading][current].   
+
+2. Care to peek into [my TBR][tbr]?   
+  
+3. My year in books: [2019][yib2019]!     
+
+4. My year in books: [2018][yib2018]!     
 
 ## Let's Get Started 
 
@@ -113,24 +121,12 @@ Most of them were losers too.
 
 	> Oh and before I forget, you can sign up [here][vimnewsletter] for weekly VIM nuggets. This is _such_ an ideal way for me to learn VIM progessively. (And should be for you too!)    
 
-20. **The White Tiger - by Aravind Adiga**  
+20. **The White Tiger - by Aravind Adiga**    
 
-	> A social satire which will make you laugh hard and grimly introspect your actions at the same time. Set in India, the principal seat of satire and hypocrisy in the world, follow a "servant" from Laxmangarh who became a _man_, enterpreneur and much more. A debut novel bagging the Man Booker Prize in 2008, I surely have to watch out for this author. 
-	> A must-read eye-opener for every Indian. Gruelsome and vile in parts but starkingly true in the whole.      
-	> Sample this: "Being called a murderer: fine, I have no objection to that. It's a fact: I am a sinner, a fallen human. But to be called a murderer by the police! _What a fucking joke._"   
- 
+	> A social satire which will make you laugh hard and grimly introspect your actions at the same time. Set in India, the principal seat of satire and hypocrisy in the world, follow a "servant" from Laxmangarh who became a _man_, enterpreneur and much more. A debut novel bagging the Man Booker Prize in 2008, I surely have to watch out for this author.      
+	> A must-read eye-opener for every Indian. Gruelsome and vile in parts but starkly true in the whole.      
+	> Sample this: "Being called a murderer: fine, I have no objection to that. It's a fact: I am a sinner, a fallen human. But to be called a murderer by the police! _What a fucking joke._"     
 
-## Currently Reading   
-
-1. Technical track
-	* The Hundred-Page Machine Learning Book - Andriy Burkov (It's more like 150 pages!)
-	* Practical React Native - Frank Zammetti 
-	* Pro MERN Stack - Vasan Subramanian
-
-2. Non-technical track
-	* Elon Musk - Ashlee Vance
-	* Flow - Mihaly Csikszentmihalyi
-		
 [gates_read_list]: https://youtu.be/a47dqygseGo
 [wallflower]: https://www.imdb.com/title/tt1659337/
 [rosie_result]: https://www.goodreads.com/book/show/41018628-the-rosie-result
@@ -140,3 +136,9 @@ Most of them were losers too.
 [announcement_rp2]: https://deadline.com/2020/07/ready-player-two-sequel-novel-ernest-cline-november-publication-date-1202980261/
 [mdn_web_doc]: https://developer.mozilla.org/en-US/docs/Learn
 [vimnewsletter]: http://masteringvim.com
+[bookshelf]: https://patrickcollison.com/bookshelf
+[mailto]: mailto:basillabib01@gmail.com
+[current]: /bookshelf/current-reading.md
+[tbr]: /bookshelf/tbr.md
+[yib2019]: /bookshelf/yib2019.md
+[yib2018]: /bookshelf/yib2018.md
