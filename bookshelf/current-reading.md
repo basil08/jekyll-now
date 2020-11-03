@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Currently Reading
-permalink: /bookshelf/current-reading
 ---
 
 <!--What happens if I remove permalink directive in YAML?-->

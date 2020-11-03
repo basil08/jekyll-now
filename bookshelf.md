@@ -6,7 +6,7 @@ permalink: /bookshelf/
 
 ## Abstract   
 
-Inspired by Patrick Collison's luscious [bookshelf][bookshelf], this page is the list of books I have read in the current year (whichever year you are reading it). Most of these are plucked from other people's recommendation lists, popular choices, stuff I find interesting or just a random topic I want to learn about on a Saturday evening. Suggestions? Drop me a [line][mailto] here!  
+Inspired by Patrick Collison's luscious [bookshelf][bookshelf], this page is the list of books I have read in the current year (whichever year you are reading it). Most of these are plucked from other people's recommendation lists, popular choices, stuff I find interesting or just a random topic I want to learn about on a Saturday evening. Suggestions? Drop me a [line][mailto]!
 
 1. Check out [my current reading][current].   
 
