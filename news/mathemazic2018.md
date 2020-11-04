@@ -15,7 +15,7 @@ Below you can find few newspaper clippings that I could procure.
 
 {% include image.html url="/assets/images/ym_full.jpg" description="Felicitation ceremony coverage at GD Birla Sabhagar on Apr 22, 2018. Source: Young Metro" %}   
 
-{% include image.html url="/assets/iamges/ym_front.jpg" description="Front page of The Telegraph (Young Metro) dated Apr 27, 2018" %}  
+{% include image.html url="/assets/images/ym_front.jpg" description="Front page of The Telegraph (Young Metro) dated Apr 27, 2018" %}  
  
 ## The Telegraph (Kolkata Edition) 
 
