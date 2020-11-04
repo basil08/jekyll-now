@@ -8,4 +8,3 @@ Hypocrisy in education. Everyone wants something for themselves.
 
 Mediocrity in school education. Made to chase marks not excellence. Effects on society at large.
 
-
