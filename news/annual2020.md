@@ -8,7 +8,7 @@ permalink: /news/annual2020
 
 Birla High School celebrated its Annual Prize Day on August 29, 2020 virtually to recognize and encourage sincere and talented students.   
 
-I had the honour to be awarded prizez for sustained excellence and overall rank one among all sections.    
+I had the honour to be awarded prizes for sustained excellence and overall rank one among all sections.    
 
 The Times of India covered our function. Below are few screenshots.  
 

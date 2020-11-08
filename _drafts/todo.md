@@ -18,3 +18,5 @@ Pic of Cocteau Twins CDs (when they arrive)
 Pic of ITC hamper school (whatever that means) in a post "Last school fest"
 
 To JEE or not to JEE
+
+Compress images (all of them!)
