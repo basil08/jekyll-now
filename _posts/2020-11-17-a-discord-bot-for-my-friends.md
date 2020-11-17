@@ -2,6 +2,7 @@
 layout: post
 title: ! 'A Discord Bot for my friends'
 author: Basil Labib
+excerpt_separator: <!--more-->
 tags: discord bot dev nodejs discordjs
 ---
 
@@ -9,8 +10,8 @@ tags: discord bot dev nodejs discordjs
 
 Nonchalance, procrastination and a particularly boring weekend. That's the perfect recipe to cook up a Discord bot.    
 
-So, I ended up making a bot for my school friends and co.    
-
+So, I ended up making a bot for my school friends and co.     
+<!--more-->
 In this and few upcoming posts, I will be making a Discord bot from the ground up. This will be a great reference for any beginner with absolutely no exposure to development to make a Discord bot and to add it to their servers. Excited? So, let's begin.   
 
 ## Prerequisites     
@@ -144,7 +145,7 @@ Make friends with Git. It's the industry _lingua franca_ and you'll need it not 
 The following series is based on [this guide][discordguide] and I thank the authors for such a comprehensive one.
 
 [mdnjs]: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript
-[nodejsite]: https://nodejs.org/
+[nodejssite]: https://nodejs.org/
 [gitsite]: https://git-scm.com/
 [gitforwin]: https://gitforwindows.org/
 [vscode]: https://code.visualstudio.com/
