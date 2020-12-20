@@ -12,6 +12,7 @@ Nonchalance, procrastination and a particularly boring weekend. That's the perfe
 
 So, I ended up making a bot for my school friends and co.     
 <!--more-->
+
 In this and few upcoming posts, I will be making a Discord bot from the ground up. This will be a great reference for any beginner with absolutely no exposure to development to make a Discord bot and to add it to their servers. Excited? So, let's begin.   
 
 ## Prerequisites     

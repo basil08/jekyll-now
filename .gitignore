@@ -11,3 +11,4 @@ package.json
 *~
 *.swp
 *.swo
+_drafts/*

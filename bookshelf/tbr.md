@@ -12,4 +12,4 @@ permalink: /bookshelf/tbr
 	1. Poor Charlie's Almanack - Charles T. Munger
 	2. Tao Te Ching - Lao Tzu (Revisit)
 	3. The Richest Man In Babylon - George S. Clason   
-
+	4. The Selfish Gene - Richard Dawkins
