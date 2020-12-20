@@ -6,7 +6,7 @@ author: Basil Labib
 
 A rather crazy self-imposed project which I had the faintest of ideas will become all-devouring and pose countless hurdles for me to dodge. But yeah, did it. Don't blame me for the CT making ethereal noises!   
 
-{ % include image.html url="assets/images/ctcd1.jpg" description="From left to right: Treasure, Stars and Topsoil and Heaven or Las Vegas (all CDs)" % }  
+{% include image.html url="assets/images/ctcd1.jpg" description="From left to right: Treasure, Stars and Topsoil and Heaven or Las Vegas (all CDs)" %}  
 
 ## Why do I have to buy music?   
 
@@ -28,15 +28,15 @@ I financed the whole endeavor on my own from the compensation I got for my gig w
 
 ## What did I buy?    
 
-To be extremely honest, the idea to buy a CT CD came to me after I listened to HOLV. And it was just one CD. What could eventually go wrong? I thought to myself. But with some contribution from human desire coupled with marketing techniques exercised by Norman and my own vanity, I ended up ordering 3 CDs - Heaven or Las Vegas(1990), Treasure(1984) and Stars and Topsoil (Compilations). All three CDs are, of course, masterpieces. And I love them!   
+To be extremely honest, the idea to buy a CT CD came to me after I listened to HOLV. And it was just one CD. What could eventually go wrong? I thought to myself. But with some contribution from human desire coupled with marketing techniques exercised by Norman and my own vanity, I ended up ordering 3 CDs - Heaven or Las Vegas(1990), Treasure(1984) and Stars and Topsoil (Compilation). All three CDs are, of course, masterpieces. And I love them!   
 
-{ % include image.html url="assets/images/ctcd2.jpg" description="Is one click ever enough?" % }  
+{% include image.html url="assets/images/ctcd2.jpg" description="Is one click ever enough?" %}  
 
-{ % include image.html url="assets/images/ctcd3.jpg" description="Inside of Treasure" % }  
+{% include image.html url="assets/images/ctcd3.jpg" description="Inside of Treasure" %}  
 
 ## Where did I buy from?     
 
-[norman][Norman Records].   
+[Norman Records][norman].   
 
 I wasted quite sometime in vain during the initial days of the undertaking to convince myself that I can find a CT album here in the music shops of Kolkata. My supposition may have been correct say 20 years ago but today only remnants remain of this bizarre craze I have happened to nurture. For second, Music World burned down in an accident in 2010. I regret that. I ordered my CDs on October 26, 2020 and they arrived on November 27th, 2020.  
 
