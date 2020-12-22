@@ -6,7 +6,9 @@ permalink: /about/
 
 Hi there! 
 
-I am **Basil Labib**. I am 17. I am a high school student and expect to graduate next year from [Birla High School](https://birlahighschool.com), Kolkata. 
+I am **Basil Labib**. I am a non-conformist, open source enthusiast, avid reader, origamist, blogger and a natural philomath.   
+
+Conventionally, I am a high school student and expect to graduate next year from [Birla High School](https://birlahighschool.com), Kolkata.   
 
 I take keen interest in STEM in general and Computer Science in particular. I absolutely love Physics and Applied Mathematics. I also like Biology. I like challenges, academic or otherwise. 
 
