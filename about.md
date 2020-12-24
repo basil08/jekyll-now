@@ -12,7 +12,9 @@ Conventionally, I am a high school student and expect to graduate next year from
 
 I take keen interest in STEM in general and Computer Science in particular. I absolutely love Physics and Applied Mathematics. I also like Biology. I like challenges, academic or otherwise. 
 
-I am a simple person. I don't lose my cool easily but cannot take bullshit indefinitely.   
+I am a simple person. I don't lose my cool easily but cannot take bullshit indefinitely.    
+
+I am practical in my outlook to life, perhaps more so as I often get labelled as cynical. But you cannot blame Galileo for pointing out that the Earth goes around the Sun.   
 
 I believe in making an impact where it matters the most.
 
