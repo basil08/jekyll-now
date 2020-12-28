@@ -102,7 +102,7 @@ Most of them were losers too.
 	> A sympathetic read about my first genuine crush. But shh! Besides, you will probably laugh if you happen to be reading the blog of a person who has crushes on dead people :sweat_smile:
 	
 	<!-- Link "that" image of Rosalind Franklin -->
-	{% include image.html url="assets/images/rosalind-franklin-medium/jpg" description="Rosalind Franklin" %}
+	{% include image.html url="assets/images/rosalind-franklin-medium.jpg" description="Rosalind Franklin" %}
 	> And I was smitten. Also, I am not ashamed to say but this picture alone motivated me to _complete this whole book_.(I blatantly leave books midway if I lose interest).  
 	> She had her complexity and flaws though.   
 

@@ -16,15 +16,16 @@ Some of them are on Twitter too.
 
 1. [Patrick Collison][pc]: The story of how I stumbled upon his blog is one of pure serendipity.  
 2. [Bob Nystrom][bob]: I really like his attitude (and passion) towards teaching stuff.   
-3. [Alexey Guzey][guzey]: Recently discovered.   
+3. [Alexey Guzey][guzey]: Biology, Mathematics, meta-science and philantropy.   
 4. [Neil Kakkar][neil]: I often find myself drifting towards his blog. ;)      
 5. [Russ Cox][russ]: I _love_ to dig ancient internet relics. Primarily because I wasn't there when it was built.    
-6. [Ali Spittel][ali]: Self-taught software engineer with a passion to teach. Yes please!
-7. [Peter Norvig][norvig]: PAIP. Enough said.    
-8. [Remy Sharp][remy]: JS Developer. ZX, 6502 and other good stuff. And then, you know how much I love to shuffle through other people's bookshelves. :sweat_smile:     
+6. [Ken Sheriff][ken]: Computer history, vintage computers, IC reverse engineering and you get the drift.
+7. [Ali Spittel][ali]: Self-taught software engineer with a passion to teach. Yes please!
+8. [Peter Norvig][norvig]: PAIP. Enough said.    
+9. [Remy Sharp][remy]: JS Developer. ZX, 6502 and other good stuff. And then, you know how much I love to shuffle through other people's bookshelves. :sweat_smile:     
 
 
-Updated: Dec, 24 2020 (Thu)  
+Updated: Dec, 25 2020 (Fri)  
 
 [pc]: https://patrickcollison.com
 [bob]: https://stuffwithstuff.com
@@ -34,4 +35,4 @@ Updated: Dec, 24 2020 (Thu)
 [ali]: https://welearncode.com   
 [norvig]: http://norvig.com    
 [remy]: https://remysharp.com  
-
+[ken]: https://righto.com
