@@ -127,6 +127,11 @@ Most of them were losers too.
 	> A must-read eye-opener for every Indian. Gruelsome and vile in parts but starkly true in the whole.      
 	> Sample this: "Being called a murderer: fine, I have no objection to that. It's a fact: I am a sinner, a fallen human. But to be called a murderer by the police! _What a fucking joke._"     
 
+21. **The Selfish Gene - by Richard Dawkins**   
+
+	> A classic story of gene and why we came into the picture of life. Dawkin's well-formed ideas litter these pages with ample grim examples from the bizarre kingdom of life. This book can change your entire perspective towards life. My best non-fiction read of 2020.   
+	> Can't recommend this enough, notwithstanding whether you are into biology or not.   
+
 [gates_read_list]: https://youtu.be/a47dqygseGo
 [wallflower]: https://www.imdb.com/title/tt1659337/
 [rosie_result]: https://www.goodreads.com/book/show/41018628-the-rosie-result
