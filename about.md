@@ -44,6 +44,10 @@ I _love_ to read (and more importantly, learn). I prefer non-fiction (technical 
 
 You can know about my reading endeavours [here](/bookshelf) 
 
+## Origami and Electronics   
+
+You can find me folding or tinkering with a Pi or something on some weekends. (Honestly, the chances of that have diminished due to school and I loathe it)   
+
 ## Contact me  
 
 Have a suggestion, idea or just wanna talk? Shoot me an email [here](mailto:basillabib01@gmail.com) and I'll be happy to chat back!  

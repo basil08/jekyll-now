@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Movies I watched in 2020
-author: Basil Labib
+layout: page
+title: Watchlog 2020
+permalink: /watchlog
 ---
 
 Ok, I admit my defeat! Inspite of promising myself that I would focus solely on JEE preparation and academics in general, I have given into my temptation and desire. (When I now introspect, I realize I have wasted a lot of time doing everything except academics.)   

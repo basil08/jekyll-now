@@ -132,6 +132,12 @@ Most of them were losers too.
 	> A classic story of gene and why we came into the picture of life. Dawkin's well-formed ideas litter these pages with ample grim examples from the bizarre kingdom of life. This book can change your entire perspective towards life. My best non-fiction read of 2020.   
 	> Can't recommend this enough, notwithstanding whether you are into biology or not.   
 
+22. **The Humans - by Matt Haig**   
+
+	> A short read motivated by Remy Sharp's bookshelf. Some neat ideas. Mixed feelings. But I liked it.
+	> Took me two days so not a lot invested.    
+
+
 [gates_read_list]: https://youtu.be/a47dqygseGo
 [wallflower]: https://www.imdb.com/title/tt1659337/
 [rosie_result]: https://www.goodreads.com/book/show/41018628-the-rosie-result
