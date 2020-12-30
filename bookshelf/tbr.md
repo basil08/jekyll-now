@@ -18,7 +18,9 @@ permalink: /bookshelf/tbr
 	6. Zero to One - Peter Theil (vision)
 	7. Vivekanada, A Biography - Swami Nikhilananda    
 	8. Normal People - Sally Rooney (romance fiction)   
-	9. The humans - Matt Haig    
-	10. Remembrance of the Earth's Past (trilogy) - Cixin Liu   
+	~~9. The humans - Matt Haig~~    
+	10. Remembrance of the Earth's Past (trilogy) - Cixin Liu 
+	11. Collected works of Edgar Allen Poe   
+	12. Rosemary's child - Ira Levin (horror fiction)  
 
-Updated: Dec 28, 2020 (Mon)    
+Updated: Dec 30, 2020 (Wed)    
