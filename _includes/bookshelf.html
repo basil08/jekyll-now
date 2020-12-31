@@ -6,7 +6,7 @@
 		{% else %}
 			<div class="book gray">
 		{% endif %}
-		<p>DEBUG: {% index | modulo: 2 %}</p>
+		<p>DEBUG: {{ index | modulo: 2 }}</p>
 		<h3>{{book.name}}</h3>
 		<h4>{{book.author}}</h4>
 		<img src="{{book.img_url}}" />
