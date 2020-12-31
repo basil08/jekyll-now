@@ -56,6 +56,13 @@ baseurl: ""
 # fix for nested list in jekyll
 markdown: kramdown 
 
+
+# Collections
+collections_dir: my_collections
+
+
+
+
 #
 # !! You don't need to change any of the configuration flags below !!
 #

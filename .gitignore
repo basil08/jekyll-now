@@ -12,3 +12,4 @@ package.json
 *.swp
 *.swo
 _drafts/*
+archives/*
