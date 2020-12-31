@@ -5,5 +5,7 @@
 <p>Started on: {{book.start_date}}
 Ended on: {{book.finish_date}}
 Rating: {{book.rating}}<p>
-<p>{{book.content | markdownify }}</p></div>
+<p>{{book.content | markdownify }}</p>
+<a href="{{book.url}}">Read more of my reviews here</a>
+</div>
 {% endfor %}

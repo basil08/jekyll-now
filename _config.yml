@@ -60,6 +60,9 @@ markdown: kramdown
 # Collections
 collections_dir: my_collections
 
+collections:
+        books:
+                output: true
 
 
 
