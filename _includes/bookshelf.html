@@ -1,11 +1,12 @@
 <div class="bookshelf">
+	{% assign index = 0 %}
 	{% for book in site.books %}
-		{% if forloop.index | modulo: 2 == 0 %}
+		{% if index | modulo: 2 == 0 %}
 			<div class="book white">
 		{% else %}
 			<div class="book gray">
 		{% endif %}
-		<p>DEBUG: {% forloop.index | modulo: 2 %}</p>
+		<p>DEBUG: {% index | modulo: 2 %}</p>
 		<h3>{{book.name}}</h3>
 		<h4>{{book.author}}</h4>
 		<img src="{{book.img_url}}" />
@@ -13,9 +14,11 @@
 		<p>Ended on: {{book.finish_date}}</p>
 		<p>Rating: {% for i in (1..book.rating) %}
 			{{:star: | markdownify}}
+			<p>DEBUG: {{ i }}</p>
 			{% endfor %}</p>
 		<p>{{book.content | markdownify }}</p>
 		<a href="{{book.url}}">Read more of my reviews here</a>
 	</div>
+	{% assign index =  index | plus: 1 %}
 	{% endfor %}
 </div>
