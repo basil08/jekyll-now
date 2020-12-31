@@ -1,11 +1,12 @@
 {% for book in site.books %}
-<div class="my_book_item"><h2>{{book.name}}</h2>
-<h3>{{book.author}}</h3>
-<img url="{{book.img_url}}" />
-<p>Started on: {{book.start_date}}
-Ended on: {{book.finish_date}}
-Rating: {{book.rating}}<p>
-<p>{{book.content | markdownify }}</p>
-<a href="{{book.url}}">Read more of my reviews here</a>
+<div class="my_book_item">
+	<h2>{{book.name}}</h2>
+	<h3>{{book.author}}</h3>
+	<img src="{{book.img_url}}" />
+	<p>Started on: {{book.start_date}}</p>
+	<p>Ended on: {{book.finish_date}}</p>
+	<p>Rating: {{book.rating}}</p>
+	<p>{{book.content | markdownify }}</p>
+	<a href="{{book.url}}">Read more of my reviews here</a>
 </div>
 {% endfor %}
