@@ -16,6 +16,6 @@ Inspired by Patrick Collison's luscious [bookshelf][bookshelf], this page is the
 
 4. My year in books: [2018][yib2018]!     
 
-## Let's Get Started 
+## Let's Get Started :star: 
 
 {% include bookshelf.html %}
