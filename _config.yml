@@ -57,15 +57,6 @@ baseurl: ""
 markdown: kramdown 
 
 
-# Collections
-collections_dir: my_collections
-
-collections:
-        books:
-                output: true
-
-
-
 #
 # !! You don't need to change any of the configuration flags below !!
 #

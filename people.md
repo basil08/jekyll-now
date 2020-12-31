@@ -23,9 +23,9 @@ Some of them are on Twitter too.
 7. [Ali Spittel][ali]: Self-taught software engineer with a passion to teach. Yes please!
 8. [Peter Norvig][norvig]: PAIP. Enough said.    
 9. [Remy Sharp][remy]: JS Developer. ZX, 6502 and other good stuff. And then, you know how much I love to shuffle through other people's bookshelves. :sweat_smile:     
+10. [Rohan Rao][rohan]: EE, Robotics, AI, ML.
 
-
-Updated: Dec, 25 2020 (Fri)  
+Updated: Dec, 31 2020 (Thu)  
 
 [pc]: https://patrickcollison.com
 [bob]: https://stuffwithstuff.com
@@ -36,3 +36,4 @@ Updated: Dec, 25 2020 (Fri)
 [norvig]: http://norvig.com    
 [remy]: https://remysharp.com  
 [ken]: https://righto.com
+[rohan]: https://wowelec.wordpress.com/
