@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -282,6 +282,30 @@ footer {
   padding: 20px 0;
   text-align: center;
 }
+
+//
+// Basil's Custom CSS 
+//
+
+div.bookshelf {
+	padding: 2px;	// experimental, let's see
+}
+div.book {
+	border: 1px solid black;
+}
+
+div.white {
+	background-color: $red;
+}
+
+div.gray {
+	background-color: $lightGray;
+}
+
+//
+// End of Custom CSS
+//
+
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start

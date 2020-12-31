@@ -1,12 +1,20 @@
-{% for book in site.books %}
-<div class="my_book_item">
-	<h2>{{book.name}}</h2>
-	<h3>{{book.author}}</h3>
-	<img src="{{book.img_url}}" />
-	<p>Started on: {{book.start_date}}</p>
-	<p>Ended on: {{book.finish_date}}</p>
-	<p>Rating: {{book.rating}}</p>
-	<p>{{book.content | markdownify }}</p>
-	<a href="{{book.url}}">Read more of my reviews here</a>
+<div class="bookshelf">
+	{% for book in site.books %}
+		{% if forloop.index | modulo: 2 == 0 %}
+			<div class="book white">
+		{% else %}
+			<div class="book gray">
+		{% endif %}
+		<h3>{{book.name}}</h3>
+		<h4>{{book.author}}</h4>
+		<img src="{{book.img_url}}" />
+		<p>Started on: {{book.start_date}}</p>
+		<p>Ended on: {{book.finish_date}}</p>
+		<p>Rating: {% for i in (1..book.rating) %}
+			{{:star: | markdownify}}
+			{% endfor %}</p>
+		<p>{{book.content | markdownify }}</p>
+		<a href="{{book.url}}">Read more of my reviews here</a>
+	</div>
+	{% endfor %}
 </div>
-{% endfor %}
