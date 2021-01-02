@@ -8,15 +8,15 @@ Hi there!
 
 I am **Basil Labib**. I am a non-conformist, open source enthusiast, avid reader, origamist, blogger and a natural philomath.   
 
-Conventionally, I am a high school student and expect to graduate next year from [Birla High School](https://birlahighschool.com), Kolkata.   
+Conventionally, I am a high school student and expect to graduate this year from [Birla High School](https://birlahighschool.com), Kolkata.   
 
 I take keen interest in STEM in general and Computer Science in particular. I absolutely love Physics and Applied Mathematics. I also like Biology. I like challenges, academic or otherwise. 
 
-I am a simple person. I don't lose my cool easily but cannot take bullshit indefinitely.    
+Insults and abuses don't offend me because they are transient. But ignorance and conceit does.   
 
-I am practical in my outlook to life, perhaps more so as I often get labelled as cynical. But you cannot blame Galileo for pointing out that the Earth goes around the Sun.   
+I am practical in my outlook to life, perhaps more so as I often get labelled as cynical. But you cannot blame Galileo for pointing out against _popular belief_ that the Earth goes around the Sun.   
 
-I believe in making an impact where it matters the most.
+I believe in making an impact where it matters the most. In P. Theil's terminology, "from zero to one".   
 
 I believe in letting knowledge be free for those who wish to acquire it.  
 
@@ -26,12 +26,9 @@ I am not a particularly fond sight to look at but I do good enough for a human b
 
 I **can't stand** injustice and hypocrisy. I feel quite strongly for institutions and systems that most of us have grown up with. 
 
-I believe that the mind is the most essential commodity and it must be treasured and employed. 
-
 I idolize Aaron Swartz, Linus Torvalds among many others. I quote Aaron saying "I don't hold grudges. They are unproductive". No one could possibly have put it more eloquently. 
 
-I am a perceptive person. I love to experiment with things (even if they are completely outside my domain). I like to look at a thing and ask questions which few others would ask. 
-
+I am a perceptive person. I love to experiment with things (even if they are completely outside my domain) and make mistakes. I like to look at a thing and ask questions which few others would ask. 
 
 ## Music
 I like to listen to stuff which doesn't stick to my head and accompany me to examination halls(!). I think "Cocteau Twins" are the perfect band for me with their shimmering soundscapes and Liz's ethereal, indecipherable voice. Send me to an island with all the CT tracks and I'll live happily ever after. 
