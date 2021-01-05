@@ -24,6 +24,7 @@ Some of them are on Twitter too.
 8. [Peter Norvig][norvig]: PAIP. Enough said.    
 9. [Remy Sharp][remy]: JS Developer. ZX, 6502 and other good stuff. And then, you know how much I love to shuffle through other people's bookshelves. :sweat_smile:     
 10. [Rohan Rao][rohan]: EE, Robotics, AI, ML.
+11. [Scott Aaronson][shtetl]: Quantum, Computer Science, Mathematics and Philosophy. Author of Quantum Computing Since Democritus.  
 
 Updated: Dec, 31 2020 (Thu)  
 
@@ -37,3 +38,4 @@ Updated: Dec, 31 2020 (Thu)
 [remy]: https://remysharp.com  
 [ken]: https://righto.com
 [rohan]: https://wowelec.wordpress.com/
+[shtetl]: https://scottaaronson.com/blog/
