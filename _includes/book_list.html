@@ -1,0 +1,58 @@
+{% if site.books.size > 0 %}
+<div class="book-list">
+	<h2>{{ site.books.title }}</h2>
+	{% assign index = 1 %}
+	{% for book in site.books %}
+	<div class="book-card">
+		<div class="left">
+			<div class="title-author-label">
+				{{ index }}.
+				<a href="{{ book.url }}"><strong>{{book.name}}</strong></a>
+				
+				{% if book.author || book.authors %}
+				by
+				<!-- TODO: check for no author info available-->
+				{% if book.author %}
+				<em> {{ book.author }} </em>
+				{% else %}
+				<em>
+					{% for author in book.authors %}
+					<span>{{ author }}</span>
+					{% endfor %}
+				</em>
+				{% endif %}
+				{% else %}
+				(Author info unavailable)
+				{% endif %}
+			</div>
+			<ul class="tag-list">
+				{% for tag in book.tags %}
+				<li>{{ tag }}</li>
+				{% endfor %}
+			</ul>
+			<p class="start-date">
+				Started on: {{book.start_date | date_to_string: "ordinal", "US" }}
+			</p>
+			<p class="finish-date">
+				Finished on: {{book.end_date | date_to_string: "ordinal", "US" }}
+			</p>
+			<div class="short-review">
+				{{ book.content }}
+			</div>
+		</div>
+		<div class="right">
+			<div class="img">
+				<img src="{{book.img_url}}" class="contain" alt="A Book cover"/>
+			</div>
+			<div class="rating">
+				{% for i in (1..book.rating) %}
+				:star:
+				{% endfor %}
+			
+			</div>
+		</div>
+	</div>
+	{% assign index = index | plus: 1 %}
+	{% endfor %}
+</div>
+{% endif %}
