@@ -13,3 +13,4 @@ package.json
 *.swo
 _drafts/*
 archives/*
+.jekyll-cache/*
