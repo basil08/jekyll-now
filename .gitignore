@@ -11,6 +11,6 @@ package.json
 *~
 *.swp
 *.swo
-_drafts/*
+clctns/_drafts/*
 archives/*
 .jekyll-cache/*

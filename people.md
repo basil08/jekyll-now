@@ -25,8 +25,10 @@ Some of them are on Twitter too.
 9. [Remy Sharp][remy]: JS Developer. ZX, 6502 and other good stuff. And then, you know how much I love to shuffle through other people's bookshelves. :sweat_smile:     
 10. [Rohan Rao][rohan]: EE, Robotics, AI, ML.
 11. [Scott Aaronson][shtetl]: Quantum, Computer Science, Mathematics and Philosophy. Author of Quantum Computing Since Democritus.  
+12. [Scott Spence][spence]: Developer's blog. Gatsby, Netlify, React and more!
+13. [Vitalik Buterin][buterin]: Ethereum.  
 
-Updated: Dec, 31 2020 (Thu)  
+Updated: Jan 21, 2021
 
 [pc]: https://patrickcollison.com
 [bob]: https://stuffwithstuff.com
@@ -39,3 +41,5 @@ Updated: Dec, 31 2020 (Thu)
 [ken]: https://righto.com
 [rohan]: https://wowelec.wordpress.com/
 [shtetl]: https://scottaaronson.com/blog/
+[spence]: https://scottspence.com/
+[buterin]: https://vitalik.ca

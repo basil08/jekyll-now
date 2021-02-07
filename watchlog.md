@@ -190,6 +190,26 @@ Mind blown. Do I expect Nolan to disappoint?
 
 I asked my pals for a comedy as I feared I was getting depressed (which in a sense, I am still) and came out this hilarious suggestion. Perfect watch for a saturday afternoon though not with kids.   
 
+* **Jojo Rabbit (2019) _(x1)_**  
+
+Now as I am writing this, I wonder why have I watched this only once?(!) It's a fantastic, modern satire on the outside with a warm, humane story at its core. Also, my introduction to the quirky Taika Waititi.   
+
+* **Terminator (1984) _(X2)_**  
+
+Loved it. And you do know how I absolutely crush on the 80s? Those were the times, ah. 
+
+* **Terminator 2 (1991) _(X1)_**  
+
+Watched them both for the sheer cult status the Terminator series enjoy in the geek culture. Though, I may not watch the later ones. Besides, I believe Cameron sufficiently messes up the timeline by the end of T2. :shrug:  
+
+* **The White Tiger (2021) _(X1)_**  
+
+This was inevitable. After watching the trailer on YouTube, I grabbed the book by A. Adiga and then to catch this adaptation starring a fitting Adarsh Grover as Balram Halwai. And partially to drag my sister into atleast relishing this satire (she hates books).    
+
+* **The Lion King (1994)**    
+
+Watching....  
+
 
 ## Closing thoughts   
 
