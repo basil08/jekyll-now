@@ -200,15 +200,19 @@ Loved it. And you do know how I absolutely crush on the 80s? Those were the time
 
 * **Terminator 2 (1991) _(X1)_**  
 
-Watched them both for the sheer cult status the Terminator series enjoy in the geek culture. Though, I may not watch the later ones. Besides, I believe Cameron sufficiently messes up the timeline by the end of T2. :shrug:  
+Watched them both for the sheer cult status the Terminator series enjoy in the geek culture. Though, I may not watch the later ones. Besides, I believe Cameron sufficiently messes up the timeline by the end of T2. :man_shrugging:  
 
 * **The White Tiger (2021) _(X1)_**  
 
 This was inevitable. After watching the trailer on YouTube, I grabbed the book by A. Adiga and then to catch this adaptation starring a fitting Adarsh Grover as Balram Halwai. And partially to drag my sister into atleast relishing this satire (she hates books).    
 
-* **The Lion King (1994)**    
+* **The Lion King (1994) _(X1)_**    
 
-Watching....  
+A nice cozy kid's movie with substantial life skill sermons. And yes, I watched it. For the first time. And I am not ashamed.  
+
+* **10 Things I Hate About You (1999) _(X1)_**  
+
+I am so happy I watched this "Taming of the Shrew" adaptation. I liked it. Quite. Loved that football ground sabotage :rofl: and found the post-paintball confrontation cute. Overall an impressive teen movie. (first watch: Feb 10, 2021)
 
 
 ## Closing thoughts   
