@@ -190,6 +190,10 @@ Mind blown. Do I expect Nolan to disappoint?
 
 I asked my pals for a comedy as I feared I was getting depressed (which in a sense, I am still) and came out this hilarious suggestion. Perfect watch for a saturday afternoon though not with kids.   
 
+<hr />
+
+## 2021  
+
 * **Jojo Rabbit (2019) _(x1)_**  
 
 Now as I am writing this, I wonder why have I watched this only once?(!) It's a fantastic, modern satire on the outside with a warm, humane story at its core. Also, my introduction to the quirky Taika Waititi.   
@@ -213,6 +217,18 @@ A nice cozy kid's movie with substantial life skill sermons. And yes, I watched 
 * **10 Things I Hate About You (1999) _(X1)_**  
 
 I am so happy I watched this "Taming of the Shrew" adaptation. I liked it. Quite. Loved that football ground sabotage :rofl: and found the post-paintball confrontation cute. Overall an impressive teen movie. (first watch: Feb 10, 2021)
+
+* **The Spectacular Now (2013) _(X1)_**  
+
+What a spectacular movie! Aimie Finicky is _the_ girl to die for. Played fittingly by S. Woodley who brought out the beauty, brilliance and vulnerabilities of this strong lady who is so fabulous within. Sutter is **definitely** not me!  
+PS: Gosh, their bed scene together. :100:  
+(first watch: Feb 14, 2021)
+
+* **Something Ventured (2011) _(X1)_**  
+
+A brilliant documentary about the "first venture capitalists". Basically meticulous men who took advantage of the times to make truck loads of money. Intel, Genentech, Apple, Atari, Cisco etc. I liked it. Will revisit sure. Recommended.  
+(first watch: Feb 15, 2021)  
+
 
 
 ## Closing thoughts   

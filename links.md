@@ -6,10 +6,10 @@ permalink: links/
 
 ### machine laguage: beginners   
 
-title: machine language for beginners
-author: richard mansfield
-published: 1983
-Heard about it from: [6502 site] (https://6502.org)
+title: machine language for beginners   
+author: richard mansfield    
+published: 1983    
+Heard about it from: [6502 site](https://6502.org)
 [ML for beginners][0]
 
 ### spring / spring boot tutorial series   
